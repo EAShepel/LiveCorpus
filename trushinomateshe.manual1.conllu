@@ -10,10 +10,10 @@
 7	чем	что	PRON	_	Case=Ins	_	_	_	words@vz1982m#@vz1982m#85.552#85.924
 8	для	для	ADP	_	_	_	_	_	words@vz1982m#@vz1982m#85.924#86.296
 9	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2	_	_	_	words@vz1982m#@vz1982m#86.296#86.668
-10	математик	математик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vz1982m#@vz1982m#86.668#87.04
+10	математик	математик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@vz1982m#@vz1982m#86.668#87.04
 11	отличается	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@vz1982m#@vz1982m#87.04#87.412
 12	от	от	ADP	_	_	_	_	_	words@vz1982m#@vz1982m#87.412#87.784
-13	нематематика	нематематик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@vz1982m#@vz1982m#87.784#88.156
+13	нематематика	нематематик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@vz1982m#@vz1982m#87.784#88.156
 14	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#88.156#88.528
 15	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#88.528#88.9
 16	а	а	CCONJ	_	_	_	_	_	words@vz1982m#@vz1982m#102.759#102.951
@@ -51,9 +51,9 @@
 48	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@vz1982m#@vz1982m#213.096#213.374
 49	совершенно	совершенно	ADV	_	Degree=Pos	_	_	_	words@vz1982m#@vz1982m#213.374#213.652
 50	разные	разный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@vz1982m#@vz1982m#213.652#213.93
-51	да	да	CCONJ	_	_	_	_	_	words@vz1982m#@vz1982m#213.93#214.208
+51	да	да	INTJ	_	_	_	_	_	words@vz1982m#@vz1982m#213.93#214.208
 52	?	?	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#214.208#214.486
-53	там	там	ADV	_	Degree=Pos	_	_	_	words@vz1982m#@vz1982m#214.486#214.764
+53	там	там	PRON	_	Degree=Pos	_	_	_	words@vz1982m#@vz1982m#214.486#214.764
 54	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#214.764#215.042
 55	кто-то	кто-то	PRON	_	Case=Nom	_	_	_	words@vz1982m#@vz1982m#215.042#215.32
 56	идут	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vz1982m#@vz1982m#215.32#215.598
@@ -71,18 +71,18 @@
 68	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@vz1982m#@vz1982m#218.9#219.19
 69	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vz1982m#@vz1982m#219.19#219.48
 70	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#219.48#219.77
-71	как	как	ADV	_	Degree=Pos	_	_	_	words@vz1982m#@vz1982m#219.77#220.06
-72	так	так	ADV	_	Degree=Pos	_	_	_	words@vz1982m#@vz1982m#220.06#220.35
+71	как	как	PRON	_	Degree=Pos	_	_	_	words@vz1982m#@vz1982m#219.77#220.06
+72	так	так	PRON	_	Degree=Pos	_	_	_	words@vz1982m#@vz1982m#220.06#220.35
 73	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@vz1982m#@vz1982m#220.35#220.64
 74	что	что	PRON	_	Case=Acc	_	_	_	words@vz1982m#@vz1982m#220.64#220.93
 75	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@vz1982m#@vz1982m#220.93#221.22
-76	выбралии	выбралять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vz1982m#@vz1982m#221.22#221.51
+76	выбрали	выбирать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vz1982m#@vz1982m#221.22#221.51
 77	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#221.51#221.8
 78	преподавание	преподавание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vz1982m#@vz1982m#221.8#222.09
 79	математикой	математика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@vz1982m#@vz1982m#222.09#222.38
 80	и	и	CCONJ	_	_	_	_	_	words@vz1982m#@vz1982m#222.38#222.67
 81	и	и	CCONJ	_	_	_	_	_	words@vz1982m#@vz1982m#222.67#222.96
-82	и	и	PART	_	_	_	_	_	words@vz1982m#@vz1982m#222.96#223.25
+82	и	и	CCONJ	_	_	_	_	_	words@vz1982m#@vz1982m#222.96#223.25
 83	пытались	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@vz1982m#@vz1982m#223.25#223.54
 84	ли	ли	PART	_	_	_	_	_	words@vz1982m#@vz1982m#223.54#223.83
 85	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@vz1982m#@vz1982m#223.83#224.12
@@ -98,10 +98,10 @@
 95	пойти	пойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@vz1982m#@vz1982m#226.73#227.02
 96	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#227.02#227.31
 97	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#227.31#227.62
-98	ага	ага	X	_	_	_	_	_	words@vz1982m#@vz1982m#293.879#293.986
+98	ага	ага	INTJ	_	_	_	_	_	words@vz1982m#@vz1982m#293.879#293.986
 99	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#293.986#294.093
 100	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#294.093#294.201
-101	да	да	PART	_	_	_	_	_	words@vz1982m#@vz1982m#325.874#325.963
+101	да	да	INTJ	_	_	_	_	_	words@vz1982m#@vz1982m#325.874#325.963
 102	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#325.963#326.052
 103	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#326.052#326.143
 104	ага	ага	INTJ	_	_	_	_	_	words@vz1982m#@vz1982m#334.76#334.926
@@ -169,7 +169,7 @@
 166	/	/	PUNCT	_	_	_	_	_	words@vz1982m#@vz1982m#365.314#365.553
 167	что	что	PRON	_	Case=Acc	_	_	_	words@vz1982m#@vz1982m#365.553#365.792
 168	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vz1982m#@vz1982m#365.792#366.031
-169	сделал	делать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vz1982m#@vz1982m#366.031#366.27
+169	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vz1982m#@vz1982m#366.031#366.27
 170	в	в	ADP	_	_	_	_	_	words@vz1982m#@vz1982m#366.27#366.509
 171	общем-то	общей-то	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@vz1982m#@vz1982m#366.509#366.748
 172	за	за	ADP	_	_	_	_	_	words@vz1982m#@vz1982m#366.748#366.987
@@ -329,7 +329,7 @@
 326	разная	разный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@bvt1982m#@bvt1982m#112.21#112.44
 327	математика	математика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@bvt1982m#@bvt1982m#112.44#112.67
 328	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#112.67#112.9
-329	да	да	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#112.9#113.13
+329	да	да	INTJ	_	_	_	_	_	words@bvt1982m#@bvt1982m#112.9#113.13
 330	?	?	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#113.13#113.36
 331	/	/	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#113.36#113.59
 332	вот	вот	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#113.59#113.82
@@ -357,14 +357,14 @@
 354	учит	учить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#119.97#120.364
 355	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@bvt1982m#@bvt1982m#120.364#120.758
 356	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#120.758#121.152
-357	да	да	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#121.152#121.546
+357	да	да	INTJ	_	_	_	_	_	words@bvt1982m#@bvt1982m#121.152#121.546
 358	?	?	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#121.546#121.94
 359	заставляет	заставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#121.94#122.334
 360	задумываться	задумываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	words@bvt1982m#@bvt1982m#122.334#122.728
 361	/	/	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#122.728#123.122
 362	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#123.122#123.516
 363	связи	связь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@bvt1982m#@bvt1982m#123.516#123.91
-364	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	words@bvt1982m#@bvt1982m#123.91#124.304
+364	какие-то	какой-то	PRON	_	Case=Acc|Number=Plur	_	_	_	words@bvt1982m#@bvt1982m#123.91#124.304
 365	между	между	ADP	_	_	_	_	_	words@bvt1982m#@bvt1982m#124.304#124.698
 366	чем-то	что-то	PRON	_	Case=Ins	_	_	_	words@bvt1982m#@bvt1982m#124.698#125.092
 367	/	/	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#125.092#125.5
@@ -457,7 +457,7 @@
 454	как	как	ADV	_	Degree=Pos	_	_	_	words@bvt1982m#@bvt1982m#151.12#151.43
 455	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@bvt1982m#@bvt1982m#151.43#151.74
 456	вырастает	вырастать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#151.74#152.05
-457	да	да	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#152.05#152.36
+457	да	да	INTJ	_	_	_	_	_	words@bvt1982m#@bvt1982m#152.05#152.36
 458	/	/	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#152.36#152.67
 459	/	/	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#152.67#152.98
 460	в	в	ADP	_	_	_	_	_	words@bvt1982m#@bvt1982m#153.1#153.356
@@ -940,7 +940,7 @@
 937	в	в	ADP	_	_	_	_	_	words@bvt1982m#@bvt1982m#303.076#303.335
 938	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@bvt1982m#@bvt1982m#303.335#303.594
 939	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@bvt1982m#@bvt1982m#303.594#303.853
-940	да	да	CCONJ	_	_	_	_	_	words@bvt1982m#@bvt1982m#303.853#304.112
+940	да	да	INTJ	_	_	_	_	_	words@bvt1982m#@bvt1982m#303.853#304.112
 941	и	и	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#304.112#304.371
 942	так	так	ADV	_	Degree=Pos	_	_	_	words@bvt1982m#@bvt1982m#304.371#304.63
 943	тоже	тоже	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#304.63#304.889
@@ -1043,7 +1043,7 @@
 1040	тут	тут	ADV	_	Degree=Pos	_	_	_	words@bvt1982m#@bvt1982m#333.982#334.308
 1041	вот	вот	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#334.308#334.634
 1042	рядышком	рядышком	ADV	_	Degree=Pos	_	_	_	words@bvt1982m#@bvt1982m#334.634#334.96
-1043	да	да	CCONJ	_	_	_	_	_	words@bvt1982m#@bvt1982m#334.96#335.29
+1043	да	да	INTJ	_	_	_	_	_	words@bvt1982m#@bvt1982m#334.96#335.29
 1044	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@bvt1982m#@bvt1982m#335.3#335.56
 1045	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#335.56#335.82
 1046	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#335.82#336.08
@@ -1100,4 +1100,3 @@
 1097	поучиться	поучиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	words@bvt1982m#@bvt1982m#349.9#350.18
 1098	/	/	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#350.18#350.46
 1099	/	/	PUNCT	_	_	_	_	_	words@bvt1982m#@bvt1982m#350.46#350.76
-
